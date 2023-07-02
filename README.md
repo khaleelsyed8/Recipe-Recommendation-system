@@ -31,6 +31,3 @@ Feel free to explore the codebase and customize the application to fit your spec
 
 ### Thank You to Devshala
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
