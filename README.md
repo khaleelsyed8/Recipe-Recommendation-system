@@ -29,5 +29,5 @@ To learn more about the Edamam API and its capabilities, you can visit the [Edam
 
 Feel free to explore the codebase and customize the application to fit your specific needs.
 
-### Thank You to Devshala
+### Credits : [Devshala](https://www.youtube.com/@devshala)
 
